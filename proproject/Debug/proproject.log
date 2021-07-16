@@ -1,0 +1,16 @@
+﻿  pro.c
+C:\Users\user\source\repos\proproject\proproject\pro.c(1349,6): warning C4013: 'main'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\proproject\proproject\pro.c(1411,13): warning C4013: '_kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\proproject\proproject\pro.c(1413,14): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\proproject\proproject\pro.c(1523,16): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char [22][42]'과(와) 다릅니다.
+C:\Users\user\source\repos\proproject\proproject\pro.c(1523,12): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\source\repos\proproject\proproject\pro.c(1523,25): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char [22][42]'과(와) 다릅니다.
+C:\Users\user\source\repos\proproject\proproject\pro.c(1523,18): warning C4024: 'strcpy': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\user\source\repos\proproject\proproject\pro.c(1533,16): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char [22][42]'과(와) 다릅니다.
+C:\Users\user\source\repos\proproject\proproject\pro.c(1533,12): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\source\repos\proproject\proproject\pro.c(1533,28): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char [22][42]'과(와) 다릅니다.
+C:\Users\user\source\repos\proproject\proproject\pro.c(1533,17): warning C4024: 'strcpy': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\user\source\repos\proproject\proproject\pro.c(1350): warning C4716: 'end': 값을 반환해야 합니다.
+C:\Users\user\source\repos\proproject\proproject\pro.c(1375): warning C4716: 'die': 값을 반환해야 합니다.
+C:\Users\user\source\repos\proproject\proproject\pro.c(822): warning C4716: 'Thread_A': 값을 반환해야 합니다.
+  proproject.vcxproj -> C:\Users\user\source\repos\proproject\Debug\proproject.exe
