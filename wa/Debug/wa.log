@@ -1,4 +1,0 @@
-﻿  wa.c
-C:\Users\user\source\repos\proproject\wa\wa.c(9,10): warning C4101: 'map2' :참조되지 않은 지역 변수입니다.
-C:\Users\user\source\repos\proproject\wa\wa.c(14,9): warning C4101: 'cnt' :참조되지 않은 지역 변수입니다.
-  wa.vcxproj -> C:\Users\user\source\repos\proproject\Debug\wa.exe
